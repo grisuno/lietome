@@ -1,5 +1,5 @@
 # Index
 
-| File | Purpose | Subsystem | Symbols | Used by |
-|------|---------|-----------|---------|---------|
-| `main.py` | - | misc | 0 | 0 |
+| File | Purpose | Subsystem | Symbols |
+|------|---------|-----------|---------|
+| `main.py` | - | misc | 0 |

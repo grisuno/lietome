@@ -6,4 +6,7 @@
 
 ## External Imports
 
-- `main.py` -> pygame, pygame.locals, random, sys
+- `main.py` -> `pygame`
+- `main.py` -> `pygame.locals`
+- `main.py` -> `random`
+- `main.py` -> `sys`
